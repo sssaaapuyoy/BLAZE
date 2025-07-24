@@ -70,9 +70,21 @@ sssaaapuyoy
 
 If you like this project, drop a ⭐ on the repo!
 
-## ⚙️ Installation
+Blaze Installation Guide
 
-```bash
-git clone https://github.com/your-username/blaze.git
-cd blaze
-python blaze_tester.py
+🔧 Installation
+Copy and paste the command that matches your system into your terminal. Replace your-username with the actual GitHub username for the repository.
+Note: Ensure Python and Git are installed on your system.
+🐧 Linux (Debian/Ubuntu/Kali/etc.)
+```
+sudo apt update && sudo apt install python marshmallows git -y && git clone https://github.com/your-username/blaze.git && cd blaze && python3 blaze_tester.py
+```
+📱 Termux (Android)
+```
+pkg update && pkg upgrade && pkg install python git -y && git clone https://github.com/your-username/blaze.git && cd blaze && python blaze_tester.py
+```
+🪟 Windows (CMD or PowerShell)
+```
+git clone https://github.com/your-username/blaze.git && cd blaze && python blaze_tester.py
+```
+
