@@ -46,7 +46,7 @@ A: Yes, it works on Windows, Linux, and Termux (Python 3 required).
 ## 🖼️ Preview
 
  **some sneak peaks!**
- 
+ <p align="center">
 <img width="580" height="890" alt="image" src="https://github.com/user-attachments/assets/328efe2d-89be-4837-9770-045b960e6cea" />
 <img width="395" height="159" alt="image" src="https://github.com/user-attachments/assets/d6a2bb55-9ebb-462c-b116-33ecfd95d807" />
 
@@ -77,7 +77,7 @@ This project is licensed under the MIT License, with the following restriction:
 ## 👨‍💻 Author
 Made with Python, fire, and no sleep by:
 
-sssaaapuyoy
+**[sssaaapuyoy](https://github.com/sssaaapuyoy/)**
 
 If you like this project, drop a ⭐ on the repo!
 
