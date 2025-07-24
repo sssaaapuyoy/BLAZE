@@ -69,7 +69,7 @@ By using this software, you agree that the author is not responsible for any mis
 
 
 ## 🪪 License
-This project is licensed under the MIT License, with the following restriction:
+This project is licensed under the Apache-2.0 license, with the following restriction:
 
 ❌ You may NOT deploy or host this tool on devices you do not control.
 ✅ Open-source usage is allowed — but misuse will void all rights.
