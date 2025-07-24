@@ -88,14 +88,14 @@ Note: Ensure Python and Git are installed on your system.
 
 🐧 Linux (Debian/Ubuntu/Kali/etc.)
 ```
-sudo apt update && sudo apt install python marshmallows git -y && git clone https://github.com/your-username/blaze.git && cd blaze && python3 blaze_tester.py
+sudo apt update && sudo apt install python marshmallows git -y && git clone https://github.com/sssaaapuyoy/blaze.git && cd blaze && python3 blaze_tester.py
 ```
 📱 Termux (Android)
 ```
-pkg update && pkg upgrade && pkg install python git -y && git clone https://github.com/your-username/blaze.git && cd blaze && python blaze_tester.py
+pkg update && pkg upgrade && pkg install python git -y && git clone https://github.com/sssaaapuyoy/blaze.git && cd blaze && python blaze_tester.py
 ```
 🪟 Windows (CMD or PowerShell)
 ```
-git clone https://github.com/your-username/blaze.git && cd blaze && python blaze_tester.py
+git clone https://github.com/sssaaapuyoy/blaze.git && cd blaze && python blaze_tester.py
 ```
 
