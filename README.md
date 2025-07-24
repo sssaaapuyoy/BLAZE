@@ -70,7 +70,6 @@ sssaaapuyoy
 
 If you like this project, drop a ⭐ on the repo!
 
-Blaze Installation Guide
 
 ## 🔧 Installation
 Copy and paste the command that matches your system into your terminal. Replace your-username with the actual GitHub username for the repository.
